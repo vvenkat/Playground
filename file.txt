@@ -1,3 +1,6 @@
 one
 two
 three
+four from second branch
+four
+four from second branch
